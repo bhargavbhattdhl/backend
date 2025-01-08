@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to Google Dorks",
+      "content": "<p>Learn the basics of Google Dorks.</p>",
+      "quiz": [
+        {
+          "question": "What is a Google Dork?",
+          "options": ["A type of search query", "A programming language", "A database"],
+          "answer": "A type of search query"
+        }
+      ]
+    }
+  ]
